@@ -50,6 +50,6 @@ This portfolio is part of a wider, ongoing exploration into:
 ## 📬 Contact & Independent Audits
 Available for independent architecture audits, whitepaper reviews, and systemic vulnerability analysis. 
 
-* **Contact:** brycewillen@proton.me (Secured via Proton Mail)
+* **Contact:** Please wait! You could'nt contact me from now.
 * **Encryption:** End-to-End Encrypted (E2EE) inquiries welcome.
 
