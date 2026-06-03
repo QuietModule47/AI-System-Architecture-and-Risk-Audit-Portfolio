@@ -66,4 +66,4 @@ The framework exhibits a fundamental structural contradiction: it demands deep, 
 
 > **Audit Notes:**
 > * Audit conducted via independent structural analysis.
-> * For secure inquiries or cryptographic reviews, contact via secured E2EE routing specified in the repository root.
+> * For secure inquiries or cryptographic reviews, contact via secured E2EE routing specified at the bottom of the main README.md.
