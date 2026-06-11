@@ -44,7 +44,9 @@ This portfolio is part of a wider, ongoing exploration into:
 
 **Objective:** The goal is not to evaluate correctness or factual accuracy, but to clarify structural architecture.
 
----
+> **Secure Contact Policy:**
+> Due to strict alignment with personal data privacy governance (GDPR) and zero-telemetry infrastructure protocols, a dedicated E2EE communication channel (Tuta/Proton) will be provisioned exclusively upon validated organizational requests. 
+> For initial verification or peer-review intent, please initiate connection via GitHub Issues.---
 
 
 
